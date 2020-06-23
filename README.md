@@ -2,7 +2,7 @@
 Latest News of Covid-19
 
 ## Requirments
-Install below pakeges in python
+Install below packages in python
 1. django
 2. BeatifulSoup
 3. requests
